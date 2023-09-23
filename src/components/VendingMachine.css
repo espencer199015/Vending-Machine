@@ -1,0 +1,15 @@
+.vending-machine-container {
+  padding: 20px;
+  background-color: darkpurple; /* Change to your preferred dark purple color */
+  color: neonblue; /* Change to your preferred neon blue color */
+  border: 1px solid #ccc;
+}
+
+.snack-link {
+  color: white; /* Change to a suitable text color for the links */
+  text-decoration: none;
+}
+
+.snack-link:hover {
+  color: lightgrey; /* Change to a suitable hover color for the links */
+}
